@@ -1,0 +1,31 @@
+:root{
+   --grey-color:#2F303A;
+
+
+
+} 
+
+
+
+p {
+    color: blue;
+    font-size: 24px;
+    }
+
+button {
+    color: blue;
+    text-decoration-color: azure;
+}
+
+section{
+    background-color: var(--grey-color);
+    justify-content: space-between;
+    text-decoration-color: azure;
+}
+
+
+
+
+footer {
+   background-color:var(--grey-color);
+}
